@@ -1,0 +1,51 @@
+.formlabel{
+    margin: auto;
+    
+    font-size: 3px;
+}
+.viewtxt{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -5px;
+
+}
+.loadView{
+    width: 200px;
+    height: 100px;
+    overflow: hidden;
+}
+.loading{
+    margin-top: 20px;
+    height: 200px;
+    border-radius: 30px;
+}
+
+.viewsts{
+    position: relative;
+    top: 10px;
+}
+
+
+.viewBtn{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.sumitBtn{
+    margin-top: 10px;
+    background: #FFAC30;
+    box-shadow: 0px 4px 8px rgba(239, 54, 81, 0.35);
+    border-radius: 25px;
+    min-width: 170px;
+    height: 30px;
+    border: white;
+    border-width: 6px;
+}
+.logoImg{
+    height: 70px;
+    border-radius: 5px;
+    margin: 10px;
+}
